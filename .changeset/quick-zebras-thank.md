@@ -1,5 +1,5 @@
 ---
-"@repo/ui": patch
+"@bahag-wuj/ui": patch
 ---
 
 update ui
