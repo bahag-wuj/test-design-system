@@ -1,5 +1,5 @@
 ---
-"@repo/ui": major
+"@bahag-wuj/ui": major
 ---
 
 update ui
